@@ -1,0 +1,262 @@
+recipe_id,recipe,prep_time,cook_time,total_time,servings,calories,fat,carbs,protein
+1,Cheesy Amish Breakfast Casserole,10 mins,55 mins,1 hr 15 mins,12,314,23g,12g,22g
+2,Best Vinegar Coleslaw,15 mins,5 mins,20 mins,8,224,9g,35g,2g
+3,Pennsylvania-Dutch Pickled Beets and Eggs,15 mins,30 mins,2 days 45 mins,8,252,5g,45g,7g
+4,Amish Macaroni Salad,15 mins,10 mins,1 hr 25 mins,6,532,25g,66g,9g
+5,Amish Friendship Bread Starter,30 mins,N/A,10 days 40 mins,120,34,0g,8g,1g
+6,My Amish Friend's Caramel Corn,20 mins,1 hr 10 mins,1 hr 30 mins,30,238,16g,22g,3g
+7,Pennsylvania Dutch Corn Pie,30 mins,55 mins,1 hr 25 mins,8,423,19g,57g,10g
+8,Amish Peanut Butter,5 mins,N/A,5 mins,24,74,3g,12g,1g
+9,Amish Meatloaf,15 mins,1 hr,1 hr 15 mins,8,464,21g,46g,24g
+10,Amish Potato Salad,30 mins,20 mins,50 mins,8,497,31g,49g,9g
+11,Amish Friendship Bread,10 mins,50 mins,1 hr,16,119,6g,16g,2g
+12,Amish Buttered Egg Noodles,5 mins,15 mins,50 mins,6,260,7g,41g,9g
+13,Amish Sugar Cakes,15 mins,12 mins,30 mins,30,186,8g,27g,2g
+14,Amish Casserole,20 mins,35 mins,55 mins,6,630,30g,57g,33g
+15,Herman Sourdough Starter,30 mins,N/A,6 days 22 hrs 40 mins,8,382,2g,82g,9g
+16,Ground Cherry Pie II,15 mins,40 mins,55 mins,8,214,8g,34g,2g
+17,Portzelky (New Year's Cookies),15 mins,20 mins,2 hrs 5 mins,48,72,2g,12g,2g
+18,Amish Peach Dumplings,15 mins,30 mins,45 mins,8,190,2g,41g,3g
+19,Amish Bread,5 mins,55 mins,5 hrs,12,58,5g,4g,0g
+20,Amish Custard Cottage Cheese Pie,15 mins,40 mins,3 hrs 55 mins,16,220,10g,26g,8g
+21,Amish Baked Oatmeal,10 mins,25 mins,35 mins,8,375,18g,50g,7g
+22,Rollkuchen (Mennonite Fritters),15 mins,20 mins,35 mins,16,80,4g,9g,2g
+23,Amish Friendship Cake,15 mins,45 mins,1 hr,24,256,11g,34g,6g
+24,Amish Tomato Pie,1 hr,1 hr 15 mins,3 hrs 30 mins,8,469,37g,19g,17g
+25,Amish Salisbury Steak,15 mins,1 hr 10 mins,9 hrs 25 mins,5,322,19g,9g,28g
+26,Wet-Bottom Shoofly Pie,30 mins,40 mins,1 hr 10 mins,8,407,12g,73g,5g
+27,Our Most Traditional Amish and Mennonite Recipes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+28,Amish Friendship Banana Nut Bread,15 mins,1 hr 15 mins,1 hr 40 mins,30,160,7g,23g,3g
+29,Easy Pork and Sauerkraut,15 mins,6 hrs,6 hrs 15 mins,5,139,4g,12g,13g
+30,Amish Cinnamon Bread,10 mins,1 hr,1 hr 10 mins,36,155,9g,18g,2g
+31,Amish Apple Dumplings,20 mins,45 mins,1 hr 5 mins,6,924,32g,161g,6g
+32,Yellow Pickled Eggs,15 mins,25 mins,4 days 40 mins,12,141,5g,18g,7g
+33,Amish Hash Browns,25 mins,15 mins,40 mins,10,231,14g,23g,4g
+34,Kimberly's Curried Deviled Eggs,15 mins,15 mins,1 hr,12,73,6g,1g,3g
+35,Amish Buttermilk Biscuits,10 mins,15 mins,25 mins,7,223,9g,30g,5g
+36,Lower Fat Amish Macaroni Salad,15 mins,10 mins,2 hrs 55 mins,12,228,5g,38g,7g
+37,Amish Friendship Chocolate Bread,10 mins,1 hr,1 hr 10 mins,24,170,10g,18g,2g
+38,Amish Yumazuti,30 mins,1 hr,1 hr 30 mins,6,422,17g,46g,23g
+39,7 Ways to Use Your Amish Friendship Bread Starter,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+40,Lemon Poppy Seed Amish Friendship Bread,N/A,N/A,N/A,24,157,6g,25g,2g
+41,Pumpkin Custard Pie I,N/A,N/A,N/A,8,228,8g,34g,6g
+42,Amish Country Casserole,15 mins,40 mins,55 mins,6,551,29g,42g,31g
+43,Amish Potato Soup,25 mins,1 hr,1 hr 25 mins,5,460,25g,34g,25g
+44,Amish Butter and Egg Dinner Rolls,30 mins,20 mins,2 hrs 40 mins,12,172,5g,28g,4g
+45,Amish Blackberry and Strawberry Baked Oatmeal,10 mins,30 mins,40 mins,12,337,15g,48g,4g
+46,Sushi Party,3 hrs,30 mins,3 hrs 30 mins,12,516,12g,88g,13g
+47,Milk Flitcher Pie,5 mins,30 mins,35 mins,8,358,11g,63g,3g
+48,Simple Stovetop Amish Chicken,15 mins,1 hr,1 hr 15 mins,6,658,25g,67g,40g
+49,Amish Chocolate Cake,15 mins,30 mins,1 hr 15 mins,12,228,9g,33g,4g
+50,Healthier Amish Friendship Bread Starter,30 mins,10 mins,9 days 40 mins,120,33,0g,8g,1g
+51,Amish Buttermilk Pie,20 mins,1 hr,1 hr 20 mins,12,194,8g,28g,4g
+52,Red Pepper and Cabbage Pickle,45 mins,1 hr 30 mins,10 hrs 15 mins,48,106,5g,15g,2g
+53,Moist Herman Coffee Cake,N/A,N/A,N/A,36,204,10g,27g,2g
+54,Amish Chocolate Pudding,5 mins,15 mins,20 mins,8,274,4g,58g,4g
+55,Gera's Amish Funny Cake,25 mins,30 mins,55 mins,16,343,15g,50g,5g
+56,Quick Banana Nut Cake,15 mins,30 mins,45 mins,12,273,12g,38g,4g
+57,Cherry Amish Friendship Bread Cupcakes with Buttercream Frosting,20 mins,20 mins,1 hr 10 mins,24,366,20g,46g,3g
+58,Keufels (Original),30 mins,20 mins,50 mins,24,138,9g,14g,2g
+59,Amish Brown Sugar Cake,15 mins,35 mins,50 mins,18,254,10g,39g,3g
+60,Amish Cran-Apple Pie,20 mins,40 mins,1 hr,8,379,19g,50g,4g
+61,Chef John's Chimichurri Sauce,15 mins,N/A,15 mins,4,255,27g,3g,1g
+62,Easy Chimichurri,15 mins,N/A,2 hrs 15 mins,16,70,7g,2g,0g
+63,Chimichurri Sauce,5 mins,N/A,5 mins,12,133,14g,1g,0g
+64,Alfajores Argentinean Style,30 mins,10 mins,1 hr 20 mins,36,157,7g,23g,1g
+65,Authentic Empanada Pastry Dough,15 mins,N/A,45 mins,12,116,5g,16g,3g
+66,What Is Dulce de Leche and How Do You Make It?,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+67,Chimichurri Roasted Potatoes,15 mins,35 mins,55 mins,4,291,14g,39g,5g
+68,Beef Empanadas,45 mins,40 mins,2 hrs 25 mins,12,535,22g,66g,23g
+69,Argentine Meat Empanadas,45 mins,35 mins,1 hr 20 mins,10,498,37g,28g,15g
+70,Empanadas Salteñas,30 mins,40 mins,1 hr 50 mins,12,260,14g,25g,9g
+71,Chipas (Argentinean Cheese Bread),15 mins,10 mins,25 mins,8,285,11g,39g,8g
+72,Rosemary Steak,5 mins,20 mins,2 hrs 25 mins,4,506,35g,2g,33g
+73,Argentinean Potato Salad,20 mins,25 mins,1 hr 45 mins,6,271,18g,22g,6g
+74,Argentinian-Style Ribs,5 mins,10 mins,15 mins,6,N/A,N/A,N/A,N/A
+75,Gluten-Free Sandwich Cookies with Dulce de Leche (Alfajores),25 mins,10 mins,1 hr 5 mins,24,222,10g,31g,2g
+76,Empanadas Abiertas de Humita (Creamy Corn Empanadas),15 mins,23 mins,38 mins,12,224,9g,31g,6g
+77,Easy Chimichurri Sauce,15 mins,N/A,1 hr 30 mins,10,167,17g,3g,1g
+78,Beef Empanadas with Olives and Raisins,30 mins,35 mins,1 hr 20 mins,10,424,18g,48g,20g
+79,Argentinean Chimichurri Sauce,10 mins,N/A,8 hrs 10 mins,8,145,14g,6g,1g
+80,Dulce de Leche,15 mins,1 hr,1 hr 15 mins,32,171,2g,34g,4g
+81,Authentic Chimichurri,10 mins,N/A,10 mins,8,133,14g,1g,0g
+82,Argentine Lentil Stew,15 mins,40 mins,55 mins,4,266,4g,46g,13g
+83,Chimichurri Marinade,15 mins,N/A,15 mins,8,258,27g,3g,1g
+84,Squash and Kohlrabi Empanadas,40 mins,20 mins,1 hr,8,308,20g,28g,5g
+85,Argentinian Steak with Red Chimichurri,30 mins,15 mins,7 hrs 45 mins,4,758,56g,23g,44g
+86,"After Traveling Around the World, These Are 10 Condiments I Keep in My Kitchen",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+87,Quince Empanadas,30 mins,15 mins,1 hr 15 mins,12,188,5g,31g,3g
+88,Argentine Corn Pie,15 mins,45 mins,1 hr 15 mins,8,288,18g,27g,7g
+89,Chimichurri Muy Pefecto,10 mins,N/A,10 mins,6,336,36g,4g,1g
+90,Meat Pie with Hot Water Crust,30 mins,2 hrs,2 hrs 40 mins,12,640,38g,45g,27g
+91,Pavlova Deluxe,N/A,N/A,N/A,8,254,14g,30g,4g
+92,A Drama Queen's Pavlova,30 mins,50 mins,1 hr 20 mins,12,207,5g,40g,3g
+93,Apricot Anzac Biscuits,15 mins,16 mins,31 mins,15,219,11g,29g,3g
+94,Orange Pikelets,10 mins,4 mins,24 mins,8,79,0g,18g,1g
+95,ANZAC Biscuits with Almonds,10 mins,15 mins,1 hr,50,85,5g,10g,1g
+96,Easy Pavlova,30 mins,1 hr,2 hrs,8,373,22g,42g,4g
+97,Australian Damper,30 mins,30 mins,1 hr,15,133,1g,26g,4g
+98,Samoan Panikeke,10 mins,30 mins,40 mins,12,337,11g,55g,4g
+99,Lamingtons,40 mins,30 mins,9 hrs 45 mins,24,249,11g,37g,3g
+100,A Number-One Egg Bread,25 mins,40 mins,3 hrs 25 mins,18,214,9g,27g,6g
+101,The Best Pavlova,25 mins,1 hr,1 hr 55 mins,12,186,9g,25g,2g
+102,Ono Butter Mochi,5 mins,1 hr,1 hr 5 mins,12,463,14g,78g,7g
+103,Hawaiian Chicken Pineapple Kabobs,10 mins,15 mins,1 hr 25 mins,8,203,4g,17g,24g
+104,Dad's New Zealand Mince Stew,45 mins,3 hrs,3 hrs 45 mins,8,474,32g,25g,22g
+105,Coconut (Haupia) and Chocolate Pie,20 mins,25 mins,1 hr 45 mins,8,654,43g,70g,5g
+106,Hawaiian Banana Nut Bread,10 mins,1 hr,1 hr 20 mins,30,234,11g,32g,3g
+107,Malasadas,N/A,N/A,N/A,84,89,3g,13g,2g
+108,Date Loaf Cake,25 mins,45 mins,1 hr 10 mins,12,204,4g,41g,2g
+109,Fairy Bread,10 mins,N/A,10 mins,8,146,8g,17g,2g
+110,Crunchies,N/A,N/A,N/A,30,122,7g,15g,1g
+111,Mango Chutney,10 mins,1 hr 30 mins,1 hr 40 mins,240,46,0g,12g,0g
+112,Hawaiian Wedding Cake,20 mins,40 mins,1 hr,14,390,18g,57g,4g
+113,Hawaiian Millionaire Pie,15 mins,N/A,1 hr 15 mins,8,519,30g,60g,8g
+114,3-Ingredient Lemon Scones,10 mins,10 mins,20 mins,12,190,8g,26g,4g
+115,Best Ever New Zealand Pavlova,10 mins,45 mins,55 mins,12,88,N/A,22g,1g
+116,Tropical Hawaiian Wedding Cake,10 mins,35 mins,45 mins,12,297,9g,52g,5g
+117,Easy Haupia,5 mins,10 mins,2 hrs 15 mins,24,52,4g,4g,0g
+118,Butter Mochi Cupcakes,10 mins,35 mins,1 hr 5 mins,12,208,10g,28g,4g
+119,Chocolate Pavlova,20 mins,1 hr 30 mins,2 hrs 50 mins,8,402,21g,52g,5g
+120,Hawaiian Apple-Pineapple Crumble,N/A,N/A,N/A,6,416,5g,93g,3g
+121,Maui Banana Cream Tube Cake,20 mins,50 mins,2 hrs 10 mins,12,300,11g,46g,5g
+122,Chef John's Rocky Road,20 mins,10 mins,3 hrs,16,181,12g,18g,4g
+123,Pani PoPo,5 mins,20 mins,1 hr,12,221,9g,33g,4g
+124,Diana's Hawaiian Bread Rolls,20 mins,15 mins,3 hrs,12,64,3g,9g,1g
+125,Hawaiian Bread I,10 mins,3 hrs,3 hrs 10 mins,15,169,4g,29g,4g
+126,Toaster Biscuits,15 mins,20 mins,1 hr 20 mins,10,196,4g,34g,6g
+127,Almond Cookies (Dim Sum Variety),20 mins,15 mins,35 mins,24,173,11g,18g,2g
+128,Hawaiian Tarts,N/A,N/A,N/A,36,131,6g,18g,1g
+129,Best Apple Crumble,30 mins,1 hr 15 mins,1 hr 45 mins,8,660,31g,92g,7g
+130,Anzac Biscuits,15 mins,15 mins,30 mins,22,90,5g,11g,1g
+131,Easy New Zealand Squares,20 mins,30 mins,50 mins,9,280,13g,42g,3g
+132,Pineapple Upside-Down Cake II,N/A,N/A,N/A,8,486,25g,62g,5g
+133,Taro Rolls,15 mins,20 mins,1 hr,18,210,6g,36g,4g
+134,Australian English Trifle,15 mins,5 mins,45 mins,10,157,1g,36g,3g
+135,Rose Pavlova Cakes,25 mins,1 hr 15 mins,2 hrs 30 mins,18,81,5g,8g,1g
+136,Haupia and Purple Sweet Potato Pie,20 mins,53 mins,5 hrs 13 mins,16,405,28g,37g,4g
+137,Hawaiian Cake,N/A,N/A,N/A,14,566,33g,66g,6g
+138,Hawaiian Coconut-Banana Bread,20 mins,40 mins,1 hr,24,258,15g,33g,4g
+139,Victor's Non-Dairy Hawaiian Coconut Mochi Cake,10 mins,1 hr,1 hr 10 mins,12,518,18g,86g,6g
+140,Best Hawaiian Banana Nut Bread,30 mins,1 hr 10 mins,2 hrs 10 mins,12,441,24g,54g,5g
+141,Nada's Baba Cake,30 mins,1 hr,1 hr 30 mins,12,208,5g,37g,4g
+142,Australian-Style Pumpkin Scones,15 mins,15 mins,30 mins,12,128,2g,26g,3g
+143,Australian Federation Biscuits,20 mins,10 mins,30 mins,50,93,4g,13g,1g
+144,Frozen Lemon Pavlova,30 mins,15 mins,3 hrs,8,476,17g,77g,8g
+145,Honeycomb with Golden Syrup,5 mins,15 mins,35 mins,10,101,N/A,26g,N/A
+146,Hawaiian Chocolate Macadamia Nut Tart,10 mins,58 mins,1 hr 8 mins,10,707,43g,82g,7g
+147,Crispy Ginger Biscuits,25 mins,10 mins,35 mins,24,124,4g,21g,1g
+148,Hawaii Five-O So Good Ice Cream,15 mins,15 mins,6 hrs 30 mins,8,432,29g,41g,5g
+149,Dumplings and Cocky's Joy (Caramel Sauce),35 mins,10 mins,45 mins,4,556,25g,78g,7g
+150,Anzac Biscuits III,15 mins,15 mins,30 mins,24,129,7g,17g,1g
+151,Hawaiian Cookie Tarts,40 mins,25 mins,1 hr 25 mins,36,163,11g,17g,1g
+152,German Wiener Schnitzel,20 mins,15 mins,35 mins,8,435,12g,51g,27g
+153,Strudel Dough,45 mins,N/A,1 hr 45 mins,36,49,2g,7g,1g
+154,Sacher Torte,1 hr,55 mins,2 hrs 55 mins,12,470,23g,63g,7g
+155,Austrian Linzer Torte,30 mins,45 mins,2 hrs 15 mins,12,473,29g,48g,8g
+156,Viennese Crescent Holiday Cookies,15 mins,10 mins,1 hr 25 mins,48,95,5g,11g,1g
+157,Potato Plum Dumplings,35 mins,20 mins,2 hrs 55 mins,12,326,10g,53g,7g
+158,Vanille Kipferl II,30 mins,10 mins,1 hr 25 mins,30,109,6g,12g,2g
+159,Tyrolean Nut Cake (Tiroler Nusskuchen),20 mins,1 hr,1 hr 20 mins,12,432,30g,36g,8g
+160,Viennese Chocolate-Nut Cake,20 mins,1 hr,1 hr 30 mins,10,512,33g,51g,6g
+161,Austrian Jam Cookies,N/A,N/A,N/A,36,88,4g,13g,1g
+162,Chocolate Black Tea Cake,20 mins,1 hr,1 hr 20 mins,12,421,24g,49g,7g
+163,Austrian Peach Cookies II,1 hr,20 mins,1 hr 20 mins,6,937,31g,156g,12g
+164,Linzer Cookie Bars,20 mins,35 mins,2 hrs,16,228,13g,25g,5g
+165,Linzer Cookies,20 mins,10 mins,2 hrs,32,82,3g,13g,1g
+166,Linzer Tart Cookies,45 mins,10 mins,2 hrs 15 mins,12,442,30g,40g,7g
+167,Kaiserschmarren – Austrian Torn Pancakes,N/A,N/A,N/A,1 portion,768,35g,86g,24g
+168,Apple Strudel II,1 hr 30 mins,1 hr,2 hrs 30 mins,12,620,29g,87g,7g
+169,Italian Capezzoli di Venere (Chocolate Truffles of Venus),1 hr 30 mins,N/A,2 hrs,60,99,5g,12g,1g
+170,Linzer Torte Cookies,N/A,N/A,N/A,38,114,5g,17g,1g
+171,Authentic Bangladeshi Beef Curry,30 mins,1 hr 45 mins,2 hrs 15 mins,6,320,23g,9g,20g
+172,Butter Lamb Gravy,25 mins,35 mins,1 hr,6,321,22g,8g,23g
+173,Bengali Dhal,15 mins,30 mins,45 mins,4,224,4g,34g,13g
+174,Machhere Jhol (Bengali Fish Curry),10 mins,20 mins,30 mins,4,367,18g,6g,45g
+175,Egg and Potato Curry,25 mins,30 mins,55 mins,2,671,39g,56g,27g
+176,Prawn Malai Curry,20 mins,20 mins,40 mins,4,343,21g,14g,25g
+177,Gulab Jamun or Kala Jam (Waffle Balls),10 mins,17 mins,1 hr 17 mins,12,187,5g,36g,1g
+178,Spicy Crab Curry - Bangla Style,25 mins,30 mins,1 hr 55 mins,4,247,6g,31g,19g
+179,Spicy Potato Noodles (Bataka Sev),45 mins,40 mins,1 hr 25 mins,8,336,18g,35g,9g
+180,Chocolate Chip Belgian Waffles,5 mins,10 mins,15 mins,3,480,27g,52g,10g
+181,Waterzooi (Vaterzoy),15 mins,1 hr,1 hr 15 mins,6,341,24g,7g,23g
+182,Booyah Chicken,20 mins,2 hrs 30 mins,2 hrs 50 mins,12,664,35g,28g,56g
+183,Brazilian Lemonade,10 mins,N/A,10 mins,4,152,1g,36g,1g
+184,Brigadeiro,15 mins,10 mins,25 mins,20,70,2g,11g,2g
+185,Caipirinha,5 mins,N/A,5 mins,1,N/A,N/A,N/A,N/A
+186,Mom's Stovetop Pork Ribs,20 mins,40 mins,1 hr,6,461,32g,11g,34g
+187,Feijoada (Brazilian Black Bean Stew),8 hrs 30 mins,2 hrs 30 mins,11 hrs,8,381,18g,31g,24g
+188,Coconut Coconut Milk Cake,15 mins,45 mins,1 hr,24,241,15g,26g,3g
+189,Brazilian Chicken with Coconut Milk,15 mins,30 mins,45 mins,4,345,20g,12g,29g
+190,Brazilian White Rice,15 mins,30 mins,45 mins,8,201,4g,38g,3g
+191,Fried Sweet Bananas,10 mins,5 mins,15 mins,6,169,6g,31g,1g
+192,Vinagrete (Brazilian Tomato Slaw),35 mins,N/A,3 hrs 35 mins,8,93,7g,7g,1g
+193,Beijinho de Coco (Coconut Little Kiss),30 mins,20 mins,2 hrs 50 mins,10,152,5g,24g,3g
+194,Brazilian Style Flan (Pudim de Leite Condensado),20 mins,55 mins,3 hrs 15 mins,8,303,7g,53g,8g
+195,Brazilian Fish Stew,20 mins,25 mins,1 hr 5 mins,6,359,22g,16g,27g
+196,Chef John's Brazilian Fish Stew,12 mins,20 mins,32 mins,6,399,19g,33g,26g
+197,Pork and Black Bean Stew,20 mins,40 mins,1 hr,4,482,27g,27g,33g
+198,Brazilian Black Bean Stew,15 mins,30 mins,45 mins,6,508,15g,71g,23g
+199,Sweet Cornmeal Cake Brazilian-Style,10 mins,30 mins,40 mins,8,508,18g,79g,8g
+200,Brazilian Passion Fruit Mousse (Maracuja),15 mins,1 hr,1 hr 15 mins,6,515,35g,45g,7g
+201,Tender Juicy Skirt Steak (Churrasco),15 mins,43 mins,8 hrs 58 mins,4,204,12g,9g,16g
+202,Churrascaria-Style Picanha,15 mins,15 mins,1 hr,5,143,8g,2g,16g
+203,Brazilian Carrot Cake,20 mins,40 mins,1 hr,12,529,23g,78g,6g
+204,Chef John's Pão de Queijo (Brazilian Cheese Bread),10 mins,25 mins,45 mins,24,109,6g,11g,2g
+205,Easy Brazilian Black Bean Stew,15 mins,20 mins,35 mins,8,117,1g,19g,8g
+206,Brazilian-Style Beef Ribs,10 mins,6 hrs,6 hrs 20 mins,3,698,57g,N/A,44g
+207,Chef John's Brazilian Feijoada,30 mins,4 hrs 45 mins,13 hrs 15 mins,6,720,36g,54g,45g
+208,Coxinhas (Brazilian Chicken Croquettes),1 hr,1 hr,2 hrs,20,167,8g,19g,5g
+209,Moqueca de Peixe Baiana (Brazilian Fish Stew),25 mins,25 mins,1 hr 20 mins,4,454,34g,16g,25g
+210,Brazilian Cheese Rolls (Pão de Queijo),20 mins,15 mins,50 mins,14,199,12g,17g,6g
+211,Air Fryer Pão de Queijo,15 mins,10 mins,25 mins,20,97,6g,9g,3g
+212,Bolo de Leite Condensado (Brazilian Condensed Milk Cake),10 mins,40 mins,50 mins,10,351,8g,63g,8g
+213,Easy Brazilian Spiced Salmon,5 mins,15 mins,20 mins,4,223,11g,10g,22g
+214,Black Beans with Bacon,30 mins,40 mins,13 hrs 30 mins,6,381,24g,28g,13g
+215,Salpicao de Frango (Brazilian Chicken Salad),30 mins,N/A,30 mins,8,355,19g,31g,17g
+216,Brazilian Coffee Cookies,30 mins,10 mins,40 mins,48,49,2g,8g,1g
+217,Brazilian Quentao,5 mins,25 mins,30 mins,8,N/A,N/A,N/A,N/A
+218,Brazilian Collard Greens (Couve a Mineira),15 mins,30 mins,45 mins,4,129,10g,6g,5g
+219,Canjica (Brazilian Hominy Pudding),5 mins,1 hr 20 mins,9 hrs 25 mins,10,528,26g,66g,10g
+220,Quindim,10 mins,30 mins,1 hr 10 mins,8,187,7g,30g,2g
+221,Pan de Queso (Brazilian Cheese Buns),20 mins,25 mins,55 mins,24,69,4g,8g,2g
+222,Bolo de Fuba Cremoso (Creamy Cornmeal Cake),10 mins,30 mins,40 mins,8,532,22g,76g,12g
+223,Caipirinha Cocktail,5 mins,N/A,5 mins,1,165,0g,11g,1g
+224,Brazilian-Style Moist Coconut Cake,20 mins,40 mins,4 hrs,12,540,17g,90g,10g
+225,Cocada (Brazilian Coconut Sweet),5 mins,20 mins,55 mins,20,155,11g,14g,3g
+226,Brazilian Bom-Bocado (Egg Custard),10 mins,10 mins,40 mins,12,147,7g,19g,4g
+227,Quick Blender Carrot Cake,10 mins,30 mins,40 mins,10,518,24g,70g,7g
+228,Brazilian Banana Bread,25 mins,35 mins,1 hr,12,355,5g,74g,6g
+229,Brazilian Whole Banana Pie,20 mins,45 mins,1 hr 5 mins,12,451,11g,83g,11g
+230,Brazilian Style Chocolate Pudding,5 mins,10 mins,20 mins,10,163,5g,24g,5g
+231,Brazilian Chicken Stew (Galinha Ensopada),10 mins,1 hr 15 mins,1 hr 25 mins,4,425,26g,9g,37g
+232,Brazilian Sweet Banana and Rice Dish,20 mins,1 hr 50 mins,2 hrs 10 mins,6,932,15g,178g,24g
+233,Feijoada,45 mins,5 hrs,5 hrs 45 mins,6,683,39g,44g,40g
+234,Brazilian Collards,10 mins,2 hrs,2 hrs 10 mins,6,269,19g,10g,15g
+235,Brazilian-Style Carrot Cake with Chocolate Sauce,20 mins,43 mins,1 hr 8 mins,10,438,16g,72g,6g
+236,Brazilian Peanut Fudge,10 mins,N/A,25 mins,12,306,15g,38g,8g
+237,Brazilian Broa (Corn Bread),10 mins,10 mins,20 mins,24,117,3g,22g,2g
+238,Brigadeiro Chocolate Delights,10 mins,15 mins,1 hr 25 mins,25,97,4g,15g,2g
+239,Refreshing Brazilian Lemonade,10 mins,N/A,10 mins,6,145,3g,28g,3g
+240,Feijoada Nordestino (Northeastern Brazilian Black Bean Stew),30 mins,1 hr 15 mins,1 hr 50 mins,6,467,12g,77g,12g
+241,Brigadeiro Dessert,5 mins,10 mins,1 hr 15 mins,8,338,21g,32g,8g
+242,Pao de Queijo (Brazilian Cheese Bread),20 mins,30 mins,1 hr,48,74,3g,10g,1g
+243,Instant Pot Bobo de Frango (Brazilian Chicken Stew),20 mins,1 hr,1 hr 25 mins,6,514,30g,38g,23g
+244,Brazilian Crispy Cheese Bread,15 mins,30 mins,45 mins,6,257,13g,29g,8g
+245,Bolo Facil de Fuba Cremoso (Easy Creamy Cornmeal Cake),5 mins,45 mins,50 mins,12,338,5g,69g,6g
+246,Espetinho de Queijo Coalho Com Abacaxi (Brazilian Grilled Cheese with Pineapple),15 mins,5 mins,20 mins,15,83,4g,10g,3g
+247,Copycat Wingstop Cajun Corn,10 mins,15 mins,25 mins,8,185,16g,12g,2g
+248,Air Fryer Po' Boy,25 mins,10 mins,35 mins,6,655,22g,74g,39g
+249,Crawfish Salad,15 mins,N/A,15 mins,4,171,6g,9g,19g
+250,Cajun Cashews,10 mins,22 mins,32 mins,4,483,41g,24g,11g
+251,5-Ingredient Cajun Pasta,5 mins,20 mins,25 mins,4 to 6,849,67g,39g,24g
+252,Cajun Chicken and Sausage Gumbo,45 mins,2 hrs 30 mins,3 hrs 15 mins,10,480,40g,15g,16g
+253,Chef John's Chicken Lazone,10 mins,20 mins,1 hr 30 mins,4,411,25g,6g,39g
+254,Etouffee vs. Gumbo: What’s the Difference?,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+255,Sheet Pan Cajun Butter Shrimp,15 mins,8 mins,23 mins,6,339,23g,2g,31g
+256,Good New Orleans Creole Gumbo,1 hr,2 hrs 40 mins,3 hrs 40 mins,20,283,17g,12g,21g
+257,Best Jambalaya,20 mins,45 mins,1 hr 5 mins,6,465,20g,42g,28g
+258,Authentic Louisiana Red Beans and Rice,25 mins,3 hrs 5 mins,11 hrs 30 mins,8,630,24g,79g,24g
+259,Cajun Seasoning Spice Mix,5 mins,N/A,5 mins,12,6,0g,1g,0g
+260,Creole Seasoning Blend,5 mins,N/A,5 mins,20,16,0g,3g,1g
+261,Deep-Fried Turkey,30 mins,45 mins,1 hr 25 mins,16,603,34g,2g,69g
