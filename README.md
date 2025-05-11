@@ -28,6 +28,7 @@ The scraping of each recipe web page took a significant amount of hours, as most
 
 DISCLAIMER: We have utilized generative AI as a tool to help us in writing the necessary code to scrape data. We have used those code snippets to adjust to our requirements of our dataset.
 
+Note: the notebook used to collect data is implemented in `‘AllRecipes_Scrape.ipynb’`.
 
 ### TASK 1
 To begin with, we loaded a DataFrame containing the collected reviews. Each review includes, among other fields, the username of the reviewer, a star rating from 1 to 5, and, in most cases, a written text.
@@ -264,4 +265,9 @@ Moreover, we used documentation from:
 
 Finally, as noted in the report, we developed the web scraping code using the Selenium library in collaboration with ChatGPT, since we had no prior experience with web scraping. The use of ChatGPT was also present for the creation of the Dashboard.
 
+### GOOGLE DRIVE REPOSITORY
+
+Any datasets or notebooks mentioned as well as saved models, dictionaries and corpus can be found in the following Google Drive Folder:
+
+https://drive.google.com/drive/folders/1B7VleXdr6uv0l7yxgVi_s7m4D3TytdcT?usp=drive_link
 
