@@ -208,7 +208,7 @@ The overall computational complexity for this tab is rather high. Therefore, to 
 - Visualize all ngrams of the LDA topic model.
 - Perform semantic operations, with the results displayed in the plot.
 	
-Interactive Recommender System
+#### Interactive Recommender System
 In this tab, users get a glimpse of our recommender system that recommends a set of recipes that they may like depending on their selection of a set of the most popular recipes. By choosing multiple of those popular recipes in the dashboard, a set of recommendations similar to their preferences would be displayed.
 
 DISCLAIMER: The creation of this dashboard had included the use of generative AI for snippets of code (especially for the callback functions) which are then adapted to our own code, and also as a tool for debugging.
@@ -217,17 +217,17 @@ DISCLAIMER: The creation of this dashboard had included the use of generative AI
 
 The project was based on the following notebooks seen in Theory and Lab classes, in particular:
 
-Spacy notebook, by: Jerónimo Arenas-García
-Text Vectorization I notebook, by:  Jerónimo Arenas-García, Lorena Calvo-Bartolomé and Jesús Cid-Suero.
-Text Vectorization II notebook, by: Lorena Calvo-Bartolomé
-Topic Modeling notebook, by: Jerónimo Arenas-García and Jesús Cid-Suero.
-Recommender Systems, by: Vanessa Gómez Verdejo.
+- Spacy notebook, by: Jerónimo Arenas-García
+- Text Vectorization I notebook, by:  Jerónimo Arenas-García, Lorena Calvo-Bartolomé and Jesús Cid-Suero.
+- Text Vectorization II notebook, by: Lorena Calvo-Bartolomé
+- Topic Modeling notebook, by: Jerónimo Arenas-García and Jesús Cid-Suero.
+- Recommender Systems, by: Vanessa Gómez Verdejo.
 
 Moreover, we used documentation from:
 
-scikit Learn.
-Gensim LDA.
-Surprise package.
+- scikit Learn: https://scikit-learn.org/stable/index.html.
+- Gensim LDA: https://radimrehurek.com/gensim/models/ldamodel.html.
+- Surprise package: https://surprise.readthedocs.io/en/stable/prediction_algorithms_package.html.
 
 Finally, as noted in the report, we developed the web scraping code using the Selenium library in collaboration with ChatGPT, since we had no prior experience with web scraping. The use of ChatGPT was also present for the creation of the Dashboard.
 
