@@ -96,6 +96,8 @@ From our initial results, we confirmed, as previously mentioned, that adverbs in
 
 Concerning the model selection, we computed topic coherence scores and experimented with the number of topics suggested by the coherence model. 
 
+![](coherence_plot.png)
+
 The resulting topics appeared interpretable, so we extracted the most representative documents for each one. Crossing this data with the cuisine labels obtained during scraping revealed logical groupings: some topics aligned with specific cuisines (e.g., Greek, French, Cuban, Chinese), others with food types (e.g., Soup, Salad, Dessert, Bread/Dough), and some with cooking techniques (e.g., Marinade).
 
 ```
