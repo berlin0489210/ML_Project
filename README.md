@@ -216,6 +216,8 @@ SURPRISE using SVD: 4.622609112720928
 
 ```
 
+---
+
 ### DASHBOARD
 
 The dashboard is created and runs with a Jupyter notebook using the Dash library. The main contents of the dashboard are:
@@ -241,6 +243,8 @@ The overall computational complexity for this tab is rather high. Therefore, to 
 In this tab, users get a glimpse of our recommender system that recommends a set of recipes that they may like depending on their selection of a set of the most popular recipes. By choosing multiple of those popular recipes in the dashboard, a set of recommendations similar to their preferences would be displayed.
 
 DISCLAIMER: The creation of this dashboard had included the use of generative AI for snippets of code (especially for the callback functions) which are then adapted to our own code, and also as a tool for debugging.
+
+---
 
 ### REFERENCES
 
