@@ -72,7 +72,7 @@ To compute the embedding for each review, we averaged the word vectors of its cl
 
 Lastly, to compare the resulting embeddings, we generated t-SNE visualizations for both Word2Vec and FastText embeddings, focusing on the most relevant words. While the overall structure appeared similar, we found that FastText produced slightly more coherent and meaningful word neighborhoods.
 
-![](tSNE.png)
+![](report_img/tSNE.png)
 
 To support our observations with a more objective evaluation, we conducted a ridge regression analysis to predict the rating associated with a review using the embeddings from the 4 models mentioned above:
 
@@ -97,7 +97,7 @@ From our initial results, we confirmed, as previously mentioned, that adverbs in
 
 Concerning the model selection, we computed topic coherence scores and experimented with the number of topics suggested by the coherence model. 
 
-<img src="coherence_plot.png" width="500"/>
+<img src="report_img/coherence_plot.png" width="500"/>
 
 The resulting topics appeared interpretable, so we extracted the most representative documents for each one. Crossing this data with the cuisine labels obtained during scraping revealed logical groupings: some topics aligned with specific cuisines (e.g., Greek, French, Cuban, Chinese), others with food types (e.g., Soup, Salad, Dessert, Bread/Dough), and some with cooking techniques (e.g., Marinade).
 
