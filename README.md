@@ -22,6 +22,7 @@ DISCLAIMER: We have utilized generative AI as a tool to help us in writing the n
 
 Note: the notebook used to collect data is implemented in `‘/recipes/Intermediate Notebooks/AllRecipes_Scrape.ipynb’`.
 
+---
 
 ### TASK 1
 To begin with, we loaded a DataFrame containing the collected reviews. Each review includes, among other fields, the username of the reviewer, a star rating from 1 to 5, and, in most cases, a written text.
@@ -124,6 +125,8 @@ Topic composition is:
 Overall, the topic modeling process was labor-intensive but ultimately rewarding, as the final results revealed interpretable patterns.
 
 Note: different experimentations can be found on Notebook `‘/recipes/Intermediate Notebooks/MLA Project_Topic Modeling.ipynb’`.
+
+---
 
 ### TASK 2
 
