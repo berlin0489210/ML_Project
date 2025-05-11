@@ -1,7 +1,7 @@
 
 
- Machine Learning Applications
- Final Project
+ ## Machine Learning Applications
+ ## Final Project
 
 
 
