@@ -1,5 +1,6 @@
 
 
+ <img src="report_img/uc3m.png" width="500"/>
  #### Machine Learning Applications
  # Final Project
 
