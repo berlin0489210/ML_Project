@@ -8,15 +8,7 @@
 100496657 | Adeline Poncet \
 100496636 | Blanca Sánchez
 
-
-
-Requirements
-Descriptive report of the work carried out in .pdf format and a maximum length of 12 pages (excluding only cover and references). 
-The report should consist of four main sections:
-- Task 1 (max. 6 pages)
-- Task 2 (max. 5 pages)
-- Brief description of the implemented dashboard (max. 1 page).
-- Acknowledgment of authorship. Inexcusably, the report must respect the principle of recognition of authorship. If you have used extraneous code snippets or any material from external sources, you must clearly specify this in the report. Failing to do so, may result in the loss of the entire grade for the final project
+---
 
 ### DATASET CREATION
 
