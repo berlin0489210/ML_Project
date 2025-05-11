@@ -165,6 +165,7 @@ Recommended recipes similar to Brazilian Chicken with Coconut Milk:
 
 Moreover, in order to compare the results with the Collaborative Filtering approach, we implemented a function that calculates the rating of a pair $(u, i)$ according to the formula:
 
+<img src="report_img/equation.jpg" width="300"/>
 
 On the other hand, we implemented the content-based collaborative filtering recommendation system using the Surprise library. We took advantage of its built-in tools for evaluation and data manipulation along with its easy implementation of algorithms for recommendation systems.
 
