@@ -28,7 +28,7 @@ The scraping of each recipe web page took a significant amount of hours, as most
 
 DISCLAIMER: We have utilized generative AI as a tool to help us in writing the necessary code to scrape data. We have used those code snippets to adjust to our requirements of our dataset.
 
-Note: the notebook used to collect data is implemented in `‘/recipes/Intermediate NotebooksAllRecipes_Scrape.ipynb’`.
+Note: the notebook used to collect data is implemented in `‘/recipes/Intermediate Notebooks/AllRecipes_Scrape.ipynb’`.
 
 
 ### TASK 1
@@ -54,7 +54,7 @@ We encapsulated the full preprocessing pipeline into a reusable function, which 
 
 Throughout the notebook, we saved intermediate results to CSV files to facilitate recovery and reuse in future runs. This allowed us to resume work from any main section of the notebook in a new runtime, without needing to re-execute code from earlier sections, thus saving us a significant amount of time.
 
-Note: Spacy pipeline can be seen on Notebook `‘MLA Project_NLP.ipynb’`.
+Note: Spacy pipeline can be seen on Notebook `‘/recipes/Intermediate Notebooks/MLA Project_NLP.ipynb’`.
 
 #### <ins>Text Vectorization</ins>
 
@@ -131,7 +131,7 @@ Topic composition is:
 
 Overall, the topic modeling process was labor-intensive but ultimately rewarding, as the final results revealed interpretable patterns.
 
-Note: different experimentations can be found on Notebook `‘MLA Project_Topic Modeling.ipynb’`.
+Note: different experimentations can be found on Notebook `‘/recipes/Intermediate Notebooks/MLA Project_Topic Modeling.ipynb’`.
 
 ### TASK 2
 
@@ -145,7 +145,7 @@ Consequently, the first step we took was to compute the word embeddings (WE) for
 
 - Calculating the recipe WE as a weighted average of the reviews embeddings from the first part of the project, and using TF-IDF scores as weights, with the idea to emphasize more informative terms.
   
-Both approaches produced similar results; in this report, we present findings based on the first method. The second approach and the comparison between both can be found on Notebook `‘MLA Project_RS.ipynb’`.
+Both approaches produced similar results; in this report, we present findings based on the first method. The second approach and the comparison between both can be found on Notebook `‘/recipes/Intermediate Notebooks/MLA Project_RS.ipynb’`.
 
 Following that, we analyzed the review dataset and confirmed that many users had only a few contributions, while a smaller group had a significantly higher number of reviews, as expected from  theory class. We identified that the largest number of reviews came from the username 'Anonymous', which likely does not represent a single individual. Therefore, we excluded these reviews from the dataset.
 
