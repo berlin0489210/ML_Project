@@ -258,6 +258,8 @@ Moreover, we used documentation from:
 - scikit Learn: https://scikit-learn.org/stable/index.html.
 - Gensim LDA: https://radimrehurek.com/gensim/models/ldamodel.html.
 - Surprise package: https://surprise.readthedocs.io/en/stable/prediction_algorithms_package.html.
+- Dash tutorial: https://dash.plotly.com/tutorial.
+- Dash Bootstrap Components: https://dash-bootstrap-components.opensource.faculty.ai/docs/components/.
 
 Finally, as noted in the report, we developed the web scraping code using the Selenium library in collaboration with ChatGPT, since we had no prior experience with web scraping. The use of ChatGPT was also present for the creation of the Dashboard.
 
