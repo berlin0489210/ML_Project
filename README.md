@@ -40,7 +40,7 @@ To begin with, we loaded a DataFrame containing the collected reviews. Each revi
 
 We first removed samples that did not contain any textual content and only had a star rating, as these were not useful for our NLP analysis. After this filtering step, we retained over 110,000 reviews.
 
-Next, we applied lemmatization to the review texts. Initially, we tested both SpaCy and NLTK pipelines. After comparing the results, we chose to keep NLTK, as it produced, in our opinion, higher-quality lemmas. 
+Next, we applied lemmatization to the review texts. Initially, we tested both _SpaCy_ and _NLTK_ pipelines. After comparing the results, we chose to keep NLTK, as it produced, in our opinion, higher-quality lemmas. 
 
 Fine-tuning the pipeline required multiple attempts through the NLP process. In the final version, we included the following steps:
 - Removal of HTML tags using BeautifulSoup, as many reviews contained embedded HTML.
