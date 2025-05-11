@@ -71,11 +71,16 @@ To compute the embedding for each review, we averaged the word vectors of its cl
 
 Lastly, to compare the resulting embeddings, we generated t-SNE visualizations for both Word2Vec and FastText embeddings, focusing on the most relevant words. While the overall structure appeared similar, we found that FastText produced slightly more coherent and meaningful word neighborhoods.
 
-`--> insert TSNE plot`
+![](tSNE.png)
 
 To support our observations with a more objective evaluation, we conducted a ridge regression analysis to predict the rating associated with a review using the embeddings from the 4 models mentioned above:
 
-`--> insert regression results`
+|index|Model|Test R2|MSE|MAE|Coverage|
+|---|---|---|---|---|---|
+|`0`|`w2v`|`0\.2766499020323969`|`0\.4459406429911592`|`0\.4782287881767273`|`1\.0`|
+|`1`|`glove`|`0\.22574875616021972`|`0\.47732086922324585`|`0\.4976936135876973`|`0\.9691141506906628`|
+|`2`|`fT`|`0\.2782861579181021`|`0\.4449319018520903`|`0\.4783721079635038`|`1\.0`|
+|`3`|`fTpre`|`0\.2234913846924943`|`0\.47871252408942444`|`0\.49603655970570953`|`0\.8947560623189954`|
 
 Taking into account the obtained results, it seems that the FastText models have gotten better R-squared and MSE scores, so we opted to proceed with the text embeddings of FastText over alternatives like Word2Vec or GloVe. Furthermore, FastText can generate embeddings for out-of-vocabulary (OOV) words by leveraging subword information, which is a feature particularly valuable in domains with specialized or uncommon vocabulary. Regarding the decision between using a pre-trained model versus a domain-specific one, we believe that training the model on our recipe corpus allows the embeddings to better capture the semantic nuances and context-specific terminology used in cooking-related texts, making the representations more meaningful for our tasks. This can be justified by the coverage that the FastText models have over our corpus.
 
@@ -210,12 +215,6 @@ Neighborhood based version: 4.195755225842161
 SURPRISE using SVD: 4.622609112720928
 
 ```
-
-
-
-
-
-
 
 ### DASHBOARD
 
