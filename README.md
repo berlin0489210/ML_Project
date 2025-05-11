@@ -29,6 +29,7 @@ The scraping of each recipe web page took a significant amount of hours, as most
 DISCLAIMER: We have utilized generative AI as a tool to help us in writing the necessary code to scrape data. We have used those code snippets to adjust to our requirements of our dataset.
 
 Note: the notebook used to collect data is implemented in `‘AllRecipes_Scrape.ipynb’`.
+
 Note 2: All other notebooks mentioned in this report can be found in /recipes/Intermediate Notebooks.
 
 ### TASK 1
