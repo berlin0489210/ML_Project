@@ -268,7 +268,7 @@ Finally, as noted in the report, we developed the web scraping code using the Se
 
 ### GOOGLE DRIVE REPOSITORY
 
-Any datasets or notebooks mentioned as well as saved models, dictionaries and corpus can be found in the following Google Drive Folder. Most of those files are also in this GitHub repository, except for two files `"recipe_reviews_embeddings.csv"` and `"model_fastText_grouped.wordvectors.vectors_ngrams"`, as they are large and have exceeded the 100MB limit to be uploaded into the repository.
+Any datasets or notebooks mentioned as well as saved models, dictionaries and corpus can be found in the following Google Drive Folder. Most of those files are also in this GitHub repository under the folder "recipes", except for two files `"recipe_reviews_embeddings.csv"` and `"model_fastText_grouped.wordvectors.vectors_ngrams"`, as they are large and have exceeded the 100MB limit to be uploaded into the repository. They are accessible in the following link:
 
 https://drive.google.com/drive/folders/1B7VleXdr6uv0l7yxgVi_s7m4D3TytdcT?usp=drive_link
 
